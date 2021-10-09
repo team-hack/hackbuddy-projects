@@ -30,17 +30,18 @@ When a user visits the web page, the user should be able to:
 - user may get directions to search result
 - user may place an order(s) to results
 - payment integration
-- food truck rating & feedback
+- food truck rating & feedback (comments)
 - share results on social media platforms
 - order wait times and estimated delivery (SMS updates)
-- CRUD orders
+- CRUD orders & comments
+- CRUD profiles
 ```
 
 ### MVP Features (Food Truck)
 ```
-- CRUD orders
-- 
--
+- CRUD orders & comments
+- authentication & authorization
+- CRUD profiles
 ```
 ---
 
