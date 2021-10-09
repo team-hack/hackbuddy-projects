@@ -2,10 +2,21 @@
 
 <details>
   <summary>List of Projects</summary>
-  <a href="">PopUp Foodies</a>
-  <a href="">Drinks On Demand</a>
-  <a href="">Roomor</a>
-  <a href="">Team Hack Social Media</a>
+  <br>
+  <ul>
+    <li>
+      <a href="">PopUp Foodies</a>
+    </li>
+    <li>
+      <a href="">Drinks On Demand</a>
+    </li>
+    <li>
+      <a href="">Roomor</a>
+    </li>
+    <li>
+      <a href="">Team Hack Social Media</a>
+    </li>
+  </ul>
 </details>
 
 ---
