@@ -4,6 +4,7 @@
   <summary>List of Projects</summary>
   <a href="">PopUp Foodies</a>
 </details>
+
 ---
 
 ## 1. PopUp Foodies
