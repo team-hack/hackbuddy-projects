@@ -3,6 +3,9 @@
 <details>
   <summary>List of Projects</summary>
   <a href="">PopUp Foodies</a>
+  <a href="">Drinks On Demand</a>
+  <a href="">Roomor</a>
+  <a href="">Team Hack Social Media</a>
 </details>
 
 ---
